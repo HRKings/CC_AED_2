@@ -1,0 +1,10 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - EstruturaSequencial_Lista",
+			"request": "launch",
+			"mainClass": "EstruturaSequencial_Lista"
+		}
+	]
+}
